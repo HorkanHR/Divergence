@@ -20,7 +20,7 @@ per_locus_box <- boxplot(output_unlisted)
 
 # With ggplot
 
-per_locus_box_gg <- ggplot(output_column_tib,aes(x=factor(sequence), y=value, group=sequence))+geom_boxplot(fill="blue", alpha=0.2) + xlab("Sequence") + ylab("Divergence")
+per_locus_box_gg <- ggplot(output_column_tib,aes(x=factor(sequence), y=value, group=sequence))+geom_boxplot(fill="blue", alpha=0.2) + xlab("Locus") + ylab("Divergence")
 
 # Boxplot Divs overall
 
