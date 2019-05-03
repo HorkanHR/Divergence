@@ -1,3 +1,3 @@
 #####DIVERGENCE TIME
 
-Total_Sequence_Divergence/(2*4)
+Evolution_Rate/(2*4)
