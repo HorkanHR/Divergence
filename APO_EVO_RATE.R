@@ -1,3 +1,3 @@
 #####EVOLUTION RATE
 
-Total_Sequence_Divergence/(2*4)
+Evolution_Rate <- Total_Sequence_Divergence/4
